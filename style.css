@@ -1,0 +1,71 @@
+body {
+	background: url(https://www.wallpaperbetter.com/wallpaper/391/481/202/invader-zim-white-gir-hd-1080P-wallpaper-middle-size.jpg); background-repeat: no-repeat;
+    align-self: center;
+    margin: 60px 0 60px 60px;   
+}
+
+h1 {
+    font-family: 'Faster One', cursive; text-shadow: -6px 0px 0px #4dfc44;
+	font-size: 60px; 
+    color: black; 
+    text-align: center;
+    line-height: 80px
+}
+
+form {
+    text-align: center;
+}
+
+p {
+    font-size: 12px; font-weight: bold;
+	letter-spacing: 5px;
+	text-transform: uppercase;    
+}
+
+.gif-button {
+	font-size: 14px; color: aliceblue; font-weight: bold;
+    text-align: center; text-transform: uppercase;
+    border-radius: 10px;
+    padding: 10px 5px;
+    margin: 5px;
+    letter-spacing: -1px;
+    background:black;
+}
+
+#add-gif-button {
+	font-size: 14px; color: aliceblue;
+    text-transform: uppercase;
+    font-weight: bold;
+    border-radius: 10px;
+    padding: 10px 15px;
+    margin: 6px;
+    background:black;
+}
+
+#add-gif-button:hover, #add-gif-button:active, .gif-button:hover {
+    background: lime;
+    color: black;
+}
+
+#new-gif-input {
+	padding: 10px 15px;
+	font-size: 14px;
+    border-radius: 10px;
+    text-transform: uppercase;
+    background-color: lightgreen;
+}
+
+#button-group {
+	margin-right: 20px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.result-container {
+    text-align: center;
+}
+
+.result {
+    border-radius: 5px; margin-bottom: 25px;
+    text-align: center;   
+}
