@@ -2,7 +2,7 @@ Deployed site: https://jovanaescobar.github.io/GIPHY-HW6/
 
 GIPHY API ASSIGNMENT
 
-- Utilizing the Giphy Api - this is an interactive site where you can select from the premade button options displayed, or create your own buttons that populate gif's.
+- Utilizing the Giphy API - this is an interactive site where you can select from the premade button options displayed, or create your own buttons that populate gif's.
 
 - Each button listed is related to a cartoon from the 90's - 2000's that will populate GIF's associated to the cartoon/word in the button, along with that image rating.
 
