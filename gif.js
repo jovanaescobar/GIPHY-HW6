@@ -1,3 +1,4 @@
+// Array for cartoons for buttons 
 var cartoons = ["Invader Zim", "Cat Dog", "Rugrats","Dragon Ball Z", "Pokemon", "Scooby Doo"];
 
 // Looping through each cartoon
